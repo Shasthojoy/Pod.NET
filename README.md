@@ -1,6 +1,6 @@
 # Pod.NET
 
-C# framework to load file formats of the 1997 Ubisoft racing game POD (Planet of Death) into an object-oriented hierarchy, closely trying to resemble what the original Ubisoft classes might have provided to modify the files.
+C# library to load file formats of the 1997 Ubisoft racing game POD (Planet of Death) into an object-oriented hierarchy, closely trying to resemble what the original Ubisoft classes might have provided to modify the files.
 
 Usage
 =====
